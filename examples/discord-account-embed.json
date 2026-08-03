@@ -1,0 +1,110 @@
+{
+  "username": "Soul Grabber",
+  "avatar_url": "https://cdn.discordapp.com/embed/avatars/4.png",
+  "embeds": [
+    {
+      "title": "RitualUser",
+      "description": "?? **Nitro Boost** · ?? `9 badge(s)` · ?? `2 owned`\n?? `4 years old` · ??? Since `Jan 2022` · ?? `TR` · ?? `he/him`\n> ?? Demo payload — fictional data for educational reference",
+      "color": 5793266,
+      "url": "https://discord.com/users/123456789012345678",
+      "author": {
+        "name": "@ritualuser · 123456789012345678",
+        "icon_url": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "thumbnail": {
+        "url": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "fields": [
+        {
+          "name": "?? Download",
+          "value": "[Open full ZIP](https://example.com/demo-capture.zip)",
+          "inline": false
+        },
+        {
+          "name": "?? Nitro",
+          "value": "Boost",
+          "inline": true
+        },
+        {
+          "name": "?? Badges",
+          "value": "Staff · Partner · HypeSquad Events · +6",
+          "inline": true
+        },
+        {
+          "name": "?? Billing",
+          "value": "?? visa *4242\n??? PayPal",
+          "inline": true
+        },
+        {
+          "name": "?? Friends",
+          "value": "142",
+          "inline": true
+        },
+        {
+          "name": "?? Servers",
+          "value": "38",
+          "inline": true
+        },
+        {
+          "name": "?? Owned",
+          "value": "2 server(s)",
+          "inline": true
+        },
+        {
+          "name": "?? Email",
+          "value": "ritual@example.com",
+          "inline": true
+        },
+        {
+          "name": "?? Phone",
+          "value": "+905551234567",
+          "inline": true
+        },
+        {
+          "name": "?? MFA",
+          "value": "? Enabled",
+          "inline": true
+        },
+        {
+          "name": "?? Verified",
+          "value": "? Yes",
+          "inline": true
+        },
+        {
+          "name": "?? Account Age",
+          "value": "4 years · Jan 15, 2022",
+          "inline": true
+        },
+        {
+          "name": "?? Locale",
+          "value": "TR",
+          "inline": true
+        },
+        {
+          "name": "?? Owned Servers",
+          "value": "• Soul Community (12.4k)\n• Ritual Hub (890)",
+          "inline": false
+        },
+        {
+          "name": "? Badge List",
+          "value": "Staff\nPartner\nHypeSquad Events\nBug Hunter\nEarly Supporter\nBug Hunter Gold\nEarly Dev\nModerator\nActive Dev",
+          "inline": false
+        },
+        {
+          "name": "?? Rare Friends (10)",
+          "value": "`staff_rare` · `partner_rare` · `hypesquad_rare` · `bughunter_rare` · `earlysupporter_rare` · +5 more",
+          "inline": false
+        },
+        {
+          "name": "?? Token",
+          "value": "```mfa.DEMO_TOKEN_EDUCATIONAL_ONLY_NOT_A_REAL_TOKEN```",
+          "inline": false
+        }
+      ],
+      "footer": {
+        "text": "DESKTOP-DEMO · Soul Grabber"
+      },
+      "timestamp": "2026-08-03T18:00:00.000Z"
+    }
+  ]
+}

